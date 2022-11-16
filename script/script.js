@@ -39,3 +39,7 @@ function snapCrackle(maxValue) {
 // }
 // console.log(snapCrackle(100));
 
+alert(`Page made by: Lucas Maclean.`);
+alert(`Projeto consiste em usar os conhecimentos sobre: Arrays, Loops, Condicionais e Strings.`);
+alert(`Tudo dentro do "Console"!`);
+
